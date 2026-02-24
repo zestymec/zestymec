@@ -15,7 +15,7 @@
 <h3 align="center">Frontend Development Intern • Self-taught Coder • Tech & Digital Learner</h3>
 
 <p align="center">
-  Currently interning in Media & Marketing (Web Development) at Alkhidmat Foundation — building responsive layouts, learning JavaScript daily, and working on my own brand <strong>Bazaura.pk</strong>.
+  Currently interning in Media & Marketing (Web Development) at Alkhidmat Foundation — building responsive layouts, learning JavaScript daily .
 </p>
 
 ---
@@ -30,7 +30,6 @@
   → Advanced JavaScript & real DOM projects  
   → English (IELTS prep – Duolingo streak 40+ days, score 129)  
   → German & Arabic (daily Duolingo)  
-  → Building Bazaura.pk as a small freelance/service brand
 
 - **Mini Projects** (all on GitHub)  
   → Rock-Paper-Scissors Game (score tracking + messages)  
