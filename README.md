@@ -45,7 +45,6 @@
 - Build 10+ solid JavaScript projects and host them  
 - Complete IELTS preparation & aim for 6.5+ band  
 - Reach A2/B1 in German  
-- Launch Bazaura.pk as a small freelance brand  
 - Explore fully-funded BS CS/SE opportunities abroad (Germany, Canada, UAE, Qatar, Malaysia)  
 - Land a junior frontend role or strong internship after FSc
 
