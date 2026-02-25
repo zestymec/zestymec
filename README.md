@@ -56,7 +56,9 @@
 - X/Twitter → https://x.com/zestymec  
 - Email → m.umer394aziz@gmail.com  
 
-Always open to feedback, collaboration, or a quick chat about tech, learning, or career paths.  
+<p align="center">
+  <i>"Always open to feedback, collaboration, or a quick chat about tech, learning, or career paths."</i>
+</p>
 
 <p align="center">
   <i>"Consistency turns small efforts into big results."</i>
