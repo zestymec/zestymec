@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umer Aziz</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Umer+Aziz;Frontend+Developer+Intern;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zestymec/">
@@ -12,52 +14,65 @@
   </a>
 </p>
 
-<h3 align="center">Frontend Developer Intern • Self-taught Coder • Building My Future One Line at a Time</h3>
+<p align="center">
+  <strong>Frontend Developer Intern @ Alkhidmat Foundation</strong> | <strong>React Enthusiast</strong> | <strong>Self-Taught Coder</strong>
+</p>
 
 <p align="center">
-  Currently interning in Media & Marketing (Web Dgitvelopment) at Alkhidmat Foundation, where I build responsive websites, solve real problems, and learn something new every day. 
-  Alongside my studies, I'm focused on growing my skills in JavaScript, React, and modern frontend development.
+  Currently interning in <b>Web Development</b>, building responsive websites and solving real-world problems. 
+  Focused on mastering <b>JavaScript (ES6+)</b>, <b>React</b>, and modern UI frameworks to build scalable applications.
 </p>
 
 ---
 
-### 🛠️ What I'm Currently Working With
+### 🛠️ Tech Stack & Tools
 
-- **Languages & Tools**  
-  HTML • CSS (Pure + Bootstrap + Tailwind) • JavaScript (DOM, Events, Async/Await, Hooks) • ReactJS  
-  Git & GitHub • Canva • CapCut • WordPress + Elementor
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,wordpress,canvas" />
+</p>
 
-- **Currently Learning**  
-  → Advanced React & TypeScript  
-  → English (IELTS prep – Duolingo score 130)  
-  → German & Arabic (daily practice)
+- **Frontend Core:** DOM Manipulation, Async/Await, React Hooks, Context API.
+- **Design & Media:** Canva, CapCut, UI/UX focus with Tailwind CSS.
+- **Languages:** English (IELTS Prep - 130 Duolingo), German & Arabic (Learning).
 
-- **Mini Projects** (All on GitHub)  
-  → Rock-Paper-Scissors Game (score tracking + smooth animations)  
-  → Tic-Tac-Toe Game (win detection + reset)  
-  → AutoDeals.pk Clone (pure CSS + Bootstrap)  
-  → JM Bullion Clone (responsive homepage)  
-  → Weather App (real-time API integration)  
-  → To-Do List App (with start/end time tracking)
+---
+
+### 🚀 Projects Showcase
+
+| Project | Key Tech | Features |
+| :--- | :--- | :--- |
+| **AutoDeals.pk Clone** | Bootstrap, CSS | Full Responsive structure & Grid layout |
+| **Currency Converter** | React, Custom Hooks | Real-time API integration & Swap logic |
+| **JM Bullion Clone** | Pure CSS, HTML | Complex UI replication |
+| **Weather App** | React, Fetch API | Real-time weather tracking |
+| **Rock-Paper-Scissors** | JavaScript | Logic-based game with animations |
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zestymec&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🌱 Goals for 2026
 
-- Build 10+ strong, production-ready projects and host them live  
-- Score 6.5+ in IELTS and reach A2/B1 in German  
-- Secure a fully-funded BSCS opportunity abroad (Germany, Canada, UAE, China)  
-- Transition into a Full-Stack Developer role while continuing to grow as a software engineer  
+- [ ] Deploy 10+ Production-Ready Full-Stack Applications.
+- [ ] Achieve **6.5+ IELTS** score for international opportunities.
+- [ ] Transition from Frontend to **Full-Stack Developer** (MERN/Next.js).
+- [ ] Secure a BSCS opportunity in **Germany, Canada, or UAE**.
 
 ---
 
 ### 📫 Let's Connect
 
-I'm always open to feedback, collaboration, or a simple chat about tech, learning, or career paths.
+I'm always open to feedback, collaboration, or a chat about modern tech and career growth.
 
-- LinkedIn → https://www.linkedin.com/in/zestymec/  
-- X/Twitter → https://x.com/zestymec  
-- Email → m.umer394aziz@gmail.com  
+- **LinkedIn:** [zestymec](https://www.linkedin.com/in/zestymec/)
+- **X/Twitter:** [@zestymec](https://x.com/zestymec)
+- **Portfolio:** *Coming Soon...*
 
 <p align="center">
   <i>"Consistency turns small daily efforts into big results."</i>
