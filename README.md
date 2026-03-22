@@ -23,7 +23,7 @@
 ### 🛠️ What I'm Currently Working With
 
 - **Languages & Tools**  
-  HTML • CSS (Pure + Bootstrap) • JavaScript (DOM, Events, Arrays, Functions, Classes, Async/Await)  
+  HTML • CSS (Pure + Bootstrap) • JavaScript (DOM, Events, Arrays, Functions, Classes, Async/Await) • ReactJS • NodeJS  
   Git & GitHub • Canva • CapCut (video editing) • WordPress + Elementor (learning)
 
 - **Currently Learning**  
