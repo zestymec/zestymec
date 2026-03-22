@@ -15,7 +15,7 @@
 <h3 align="center">Frontend Developer Intern • Self-taught Coder • Building My Future One Line at a Time</h3>
 
 <p align="center">
-  Currently interning in Media & Marketing (Web Development) at Alkhidmat Foundation, where I build responsive websites, solve real problems, and learn something new every day. 
+  Currently interning in Media & Marketing (Web Dvelopment) at Alkhidmat Foundation, where I build responsive websites, solve real problems, and learn something new every day. 
   Alongside my studies, I'm focused on growing my skills in JavaScript, React, and modern frontend development.
 </p>
 
