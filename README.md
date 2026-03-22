@@ -12,10 +12,11 @@
   </a>
 </p>
 
-<h3 align="center">Frontend Development Intern • Self-taught Coder • Tech & Digital Learner</h3>
+<h3 align="center">Frontend Developer Intern • Self-taught Coder • Building My Future One Line at a Time</h3>
 
 <p align="center">
-  Currently interning in Media & Marketing (Web Development) at Alkhidmat Foundation — building responsive layouts, learning JavaScript daily, and growing my skills one step at a time.
+  Currently interning in Media & Marketing (Web Development) at Alkhidmat Foundation, where I build responsive websites, solve real problems, and learn something new every day. 
+  Alongside my studies, I'm focused on growing my skills in JavaScript, React, and modern frontend development.
 </p>
 
 ---
@@ -23,43 +24,41 @@
 ### 🛠️ What I'm Currently Working With
 
 - **Languages & Tools**  
-  HTML • CSS (Pure + Bootstrap) • JavaScript (DOM, Events, Arrays, Functions, Classes, Async/Await) • ReactJS • NodeJS  
-  Git & GitHub • Canva • CapCut (video editing) • WordPress + Elementor (learning)
+  HTML • CSS (Pure + Bootstrap + Tailwind) • JavaScript (DOM, Events, Async/Await, Hooks) • ReactJS  
+  Git & GitHub • Canva • CapCut • WordPress + Elementor
 
 - **Currently Learning**  
-  → Advanced JavaScript & real DOM projects  
-  → English (IELTS prep – Duolingo streak 40+ days, score 129)  
-  → German & Arabic (daily Duolingo)
+  → Advanced React & TypeScript  
+  → English (IELTS prep – Duolingo score 130)  
+  → German & Arabic (daily practice)
 
-- **Mini Projects** (all on GitHub)  
-  → Rock-Paper-Scissors Game (score tracking + messages)  
+- **Mini Projects** (All on GitHub)  
+  → Rock-Paper-Scissors Game (score tracking + smooth animations)  
   → Tic-Tac-Toe Game (win detection + reset)  
-  → AutoDeals.pk Clone (pure CSS homepage + Bootstrap pages)  
-  → JM Bullion Clone (pure CSS responsive homepage)  
-  → Currency Converter (Euro → PKR – on hold due to API issues)
+  → AutoDeals.pk Clone (pure CSS + Bootstrap)  
+  → JM Bullion Clone (responsive homepage)  
+  → Weather App (real-time API integration)  
+  → To-Do List App (with start/end time tracking)
 
 ---
 
 ### 🌱 Goals for 2026
 
-- Build 10+ solid JavaScript projects and host them live  
-- Complete IELTS preparation & aim for 6.5+ band  
-- Reach A2/B1 in German  
-- Explore fully-funded BS CS/SE opportunities abroad (Germany, Canada, UAE, Qatar, Malaysia)  
-- Land a junior frontend role or strong internship after FSc
+- Build 10+ strong, production-ready projects and host them live  
+- Score 6.5+ in IELTS and reach A2/B1 in German  
+- Secure a fully-funded BSCS opportunity abroad (Germany, Canada, UAE, China)  
+- Transition into a Full-Stack Developer role while continuing to grow as a software engineer  
 
 ---
 
 ### 📫 Let's Connect
+
+I'm always open to feedback, collaboration, or a simple chat about tech, learning, or career paths.
 
 - LinkedIn → https://www.linkedin.com/in/zestymec/  
 - X/Twitter → https://x.com/zestymec  
 - Email → m.umer394aziz@gmail.com  
 
 <p align="center">
-  <i>"Always open to feedback, collaboration, or a quick chat about tech, learning, or career paths."</i>
-</p>
-
-<p align="center">
-  <i>"Consistency turns small efforts into big results."</i>
+  <i>"Consistency turns small daily efforts into big results."</i>
 </p>
