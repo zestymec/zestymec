@@ -70,12 +70,12 @@
 - [ ] Achieve **C1 Proficiency** in English (IELTS) and start German B1.
 - [ ] Contribute to **Open Source** projects to give back to the community.
 - [ ] Secure a global opportunity for **BS Computer Science**.
-f
+
 ---
 
 ### 📫 Get In Touch
 
-Whether you want to discuss a project, talk about tech, or just say hi—my inbox is always open!
+Whether you want to discuss a project, talk about tech, or just say hi-my inbox is always open!
 
 - **LinkedIn:** [zestymec](https://www.linkedin.com/in/zestymec/)
 - **X/Twitter:** [@zestymec](https://x.com/zestymec)
