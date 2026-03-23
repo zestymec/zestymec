@@ -70,7 +70,7 @@
 - [ ] Achieve **C1 Proficiency** in English (IELTS) and start German B1.
 - [ ] Contribute to **Open Source** projects to give back to the community.
 - [ ] Secure a global opportunity for **BS Computer Science**.
-
+f
 ---
 
 ### 📫 Get In Touch
