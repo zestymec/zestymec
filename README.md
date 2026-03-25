@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>Frontend Developer Intern @ Alkhidmat Foundation</strong> | <strong>React Enthusiast</strong> | <strong>Tech Explorer</strong>
+  <strong>Frontend Developer Intern @AlkhidmatFoundation</strong> | <strong>React Enthusiast</strong> | <strong>Tech Explorer</strong>
 </p>
 
 <p align="center">
