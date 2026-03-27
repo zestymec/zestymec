@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Hi+I'm+Umer+Aziz+🚀;Frontend+Developer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Umer+Aziz+🚀;Frontend+Engineer;React+Specialist;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,45 +15,44 @@
 </p>
 
 <p align="center">
-  <strong>Frontend Developer Intern @AlkhidmatFoundation</strong> | <strong>React Enthusiast</strong> | <strong>Tech Explorer</strong>
-</p>
-
-<p align="center">
-  I am a passionate <b>Frontend Developer</b> dedicated to crafting seamless and responsive user experiences. 
-  Currently, I'm honing my skills at <b>Alkhidmat Foundation</b>, where I translate complex problems into elegant 
-  digital solutions. I believe in <i>"learning by doing"</i> and I'm always pushing my boundaries with 
-  <b>JavaScript</b>, <b>React</b>, and modern styling frameworks.
+  <strong>Frontend Developer Intern @AlkhidmatFoundation</strong> | <strong>CS Aspirant</strong>
 </p>
 
 ---
 
-### 🛠️ Tech Toolbox
+### 📖 About Me
+I am **Muhammad Umer Aziz**, a dedicated **Frontend Developer** with a passion for building high-performance web applications. Currently, I am contributing to meaningful projects at **Alkhidmat Foundation**, where I transform complex requirements into intuitive digital experiences. 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,wordpress,npm" />
-</p>
-
-- **Core Strengths:** Building Scalable UIs, Responsive Web Design, Component-Driven Development.
-- **Deep Diving Into:** Advanced React Patterns, System Optimization, and Backend Integration.
-- **Languages:** Fluent in English (Duolingo 130), daily practice in German & Arabic.
+I believe that great code is not just about logic, but about creating value for the end user. I spend my days mastering **React**, diving deep into **JavaScript**, and exploring modern UI/UX patterns.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-| Project Name | Tech Stack | Highlights |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,npm,vite,nodejs" />
+</div>
+
+- **Core Expertise:** Responsive Web Design, Component-Based Architecture, API Integration.
+- **Currently Learning:** Next.js 14, Advanced State Management, and Backend Systems.
+- **Global Communication:** English (Duolingo 130/160), actively learning German & Arabic.
+
+---
+
+### 🚀 Featured Work (2026)
+
+| Project | Tech & Tools | Key Achievement |
 | :--- | :--- | :--- |
-| **Currency Converter** | React, Custom Hooks, API | Real-time exchange rates with a sleek UI. |
-| **AutoDeals.pk Clone** | Bootstrap, Advanced CSS | High-fidelity responsive replication. |
-| **Weather Dashboard** | React, OpenWeather API | Dynamic data fetching with location-based stats. |
-| **Tic-Tac-Toe Pro** | JS, Logic Engine | Focus on state management and game theory. |
+| **Currency Converter** | React, Custom Hooks, API | Mastered logic separation and real-time data handling. |
+| **AutoDeals.pk Clone** | Bootstrap, CSS Grid/Flex | Achieved 100% pixel-perfect responsive design. |
+| **Weather App** | React, OpenWeather API | Implemented dynamic data fetching and state updates. |
 
 ---
 
-### 📈 My GitHub Analytics
+### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -63,23 +62,11 @@
 
 ---
 
-### 🌱 The Roadmap (2026)
+### 📫 Let's Build Something Together!
 
-- [x] Master React Fundamentals & Hooks.
-- [ ] Deploy **10+ Full-Stack** projects using Next.js & Node.js.
-- [ ] Achieve **C1 Proficiency** in English (IELTS) and start German B1.
-- [ ] Contribute to **Open Source** projects to give back to the community.
-- [ ] Secure a global opportunity for **BS Computer Science**.
-
----
-
-### 📫 Get In Touch
-
-Whether you want to discuss a project, talk about tech, or just say hi-my inbox is always open!
-
-- **LinkedIn:** [zestymec](https://www.linkedin.com/in/zestymec/)
-- **X/Twitter:** [@zestymec](https://x.com/zestymec)
+- **LinkedIn:** [Muhammad Umer Aziz](https://www.linkedin.com/in/zestymec/)
+- **GitHub:** [@zestymec](https://github.com/zestymec)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
