@@ -52,8 +52,8 @@ I believe that great code is not just about logic, but about creating value for 
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
