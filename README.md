@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Umer+Aziz+🚀;Frontend+Engineer;React+Specialist;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Umer+Aziz+🚀;React+Native+Developer;Full+Stack+Aspirant;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,27 +15,28 @@
 </p>
 
 <p align="center">
-  <strong>Frontend Developer Intern @AlkhidmatFoundation</strong> | <strong>CS Aspirant</strong>
+  <strong>Mobile App Developer @AlkhidmatFoundation</strong> | <strong>Full Stack Learner</strong>
 </p>
 
 ---
 
 ### 📖 About Me
-I am **Muhammad Umer Aziz**, a dedicated **Frontend Developer** with a passion for building high-performance web applications. Currently, I am contributing to meaningful projects at **Alkhidmat Foundation**, where I transform complex requirements into intuitive digital experiences. 
+I am **Muhammad Umer Aziz**, an 18-year-old **Mobile & Web Developer** with a deep interest in building cross-platform experiences. Currently, I am leading the mobile app efforts at **Alkhidmat Foundation**, focusing on high-performance WebView integration and native Android builds.
 
-I believe that great code is not just about logic, but about creating value for the end user. I spend my days mastering **React**, diving deep into **JavaScript**, and exploring modern UI/UX patterns.
+My core focus is **Mobile App Development**, but I am actively expanding my horizon into **Full Stack Web Development** to build end-to-end scalable systems.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,npm,vite,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode,nodejs,express,mongodb" />
 </div>
 
-- **Core Expertise:** Responsive Web Design, Component-Based Architecture, API Integration.
-- **Currently Learning:** Next.js 14, Advanced State Management, and Backend Systems.
-- **Global Communication:** English (Duolingo 130/160), actively learning German & Arabic.
+- **Core Expertise:** React Native CLI, Android Bundling (APK/AAB), Responsive Design.
+- **Native Knowledge:** Understanding of Kotlin & Objective-C bridge architecture.
+- **Currently Mastering:** Full Stack Web (MERN), Next.js 14, and Backend Systems.
+- **Global Communication:** English (Duolingo 130/160), learning German & Arabic.
 
 ---
 
@@ -43,9 +44,10 @@ I believe that great code is not just about logic, but about creating value for 
 
 | Project | Tech & Tools | Key Achievement |
 | :--- | :--- | :--- |
-| **Currency Converter** | React, Custom Hooks, API | Mastered logic separation and real-time data handling. |
+| **Alkhidmat App** | React Native, WebView | Successfully bundled and generated optimized APKs for production. |
+| **Currency Converter** | React, Custom Hooks | Mastered logic separation and real-time API data handling. |
 | **AutoDeals.pk Clone** | Bootstrap, CSS Grid/Flex | Achieved 100% pixel-perfect responsive design. |
-| **Weather App** | React, OpenWeather API | Implemented dynamic data fetching and state updates. |
+| **Portfolio Site** | React, Tailwind | Built a high-speed, modern web presence. |
 
 ---
 
@@ -54,10 +56,6 @@ I believe that great code is not just about logic, but about creating value for 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zestymec&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
