@@ -45,7 +45,7 @@ My core focus is **Mobile App Development**, but I am actively expanding my hori
 | Project | Tech & Tools | Key Achievement |
 | :--- | :--- | :--- |
 | **Alkhidmat App** | React Native, WebView | Successfully bundled and generated optimized APKs for production. |
-| **Currency Converter** | React, Custom Hooks | Mastered logic separation and real-time API data handling. |
+| **Currency Converter** | React, Custom Hooks | Mastered logic separation and real-time API data handling |
 | **AutoDeals.pk Clone** | Bootstrap, CSS Grid/Flex | Achieved 100% pixel-perfect responsive design. |
 | **Portfolio Site** | React, Tailwind | Built a high-speed, modern web presence. |
 
