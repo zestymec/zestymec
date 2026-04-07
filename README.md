@@ -21,7 +21,7 @@
 ---
 
 ### 📖 About Me
-I am **Muhammad Umer Aziz**, an 18-year-old **Mobile & Web Developer** with a deep interest in building cross-platform experiences. Currently, I am leading the mobile app efforts at **Alkhidmat Foundation**, focusing on high-performance WebView integration and native Android builds.
+I am **Muhammad Umer Aziz**, an 18-year-old **Mobile & Web Developer** with a deep interest in building cross-platform experiences. Currently  I am leading the mobile app efforts at **Alkhidmat Foundation**, focusing on high-performance WebView integration and native Android builds.
 
 My core focus is **Mobile App Development**, but I am actively expanding my horizon into **Full Stack Web Development** to build end-to-end scalable systems.
 
