@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Umer+Aziz+🚀;React+Native+Developer;Full+Stack+Aspirant;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Umer+Aziz+🚀;React+Native+Specialist;Building+Scalable+Mobile+Experiences;Full+Stack+Aspirant" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zestymec/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/zestymec">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <a href="https://github.com/zestymec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:m.umer394aziz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -15,55 +15,71 @@
 </p>
 
 <p align="center">
-  <strong>Mobile App Developer @AlkhidmatFoundation</strong> | <strong>Full Stack Learner</strong>
+  <strong>Mobile Application Developer</strong> @Alkhidmat Foundation Pakistan <br>
+  <em>Specializing in React Native | Performance Optimization | Cross-Platform Solutions</em>
 </p>
 
 ---
 
-### 📖 About Me
-I am **Muhammad Umer Aziz**, an 18-year-old **Mobile & Web Developer** with a deep interest in building cross-platform experiences. Currently  I am leading the mobile app efforts at **Alkhidmat Foundation**, focusing on high-performance WebView integration and native Android builds.
+### 🧑‍💻 Professional Synopsis
+I am a driven **Software Developer** focused on creating high-performance, user-centric mobile applications. Currently leading mobile development at **Alkhidmat Foundation**, I specialize in **React Native CLI**, native bridging, and production-grade Android bundling (**APK/AAB**). 
 
-My core focus is **Mobile App Development**, but I am actively expanding my horizon into **Full Stack Web Development** to build end-to-end scalable systems.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode,nodejs,express,mongodb" />
-</div>
-
-- **Core Expertise:** React Native CLI, Android Bundling (APK/AAB), Responsive Design.
-- **Native Knowledge:** Understanding of Kotlin & Objective-C bridge architecture.
-- **Currently Mastering:** Full Stack Web (MERN), Next.js 14, and Backend Systems.
-- **Global Communication:** English (Duolingo 130/160), learning German & Arabic.
+With a strong foundation in modern JavaScript and a **Duolingo English score of 130/160**, I am actively bridging the gap between mobile engineering and **Full Stack Web Development**.
 
 ---
 
-### 🚀 Featured Work (2026)
+### 🛠️ Technical Arsenal
 
-| Project | Tech & Tools | Key Achievement |
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend & Mobile</strong></td>
+    <td align="center" width="33%"><strong>Backend & Database</strong></td>
+    <td align="center" width="33%"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,bootstrap,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Key Projects (2026)
+
+| 📱 Project | 🛠️ Stack | 🏆 Core Impact |
 | :--- | :--- | :--- |
-| **Alkhidmat App** | React Native, WebView | Successfully bundled and generated optimized APKs for production. |
-| **Currency Converter** | React, Custom Hooks | Mastered logic separation and real-time API data handling |
-| **AutoDeals.pk Clone** | Bootstrap, CSS Grid/Flex | Achieved 100% pixel-perfect responsive design. |
-| **Portfolio Site** | React, Tailwind | Built a high-speed, modern web presence. |
+| **Alkhidmat Foundation App** | React Native, WebView | Engineered native-to-web communication layer & optimized APK bundling. |
+| **AutoDeals.pk Clone** | React, Bootstrap | Delivered a 100% pixel-perfect, responsive UI with complex grid layouts. |
+| **Currency Matrix** | React, Axios, Hooks | Built a real-time financial tool with modular architecture & API caching. |
+| **Developer Portfolio** | Next.js 14, Tailwind | High-speed personal brand site with 95+ Lighthouse performance score. |
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📈 GitHub Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zestymec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Let's Build Something Together!
-
-- **LinkedIn:** [Muhammad Umer Aziz](https://www.linkedin.com/in/zestymec/)
-- **GitHub:** [@zestymec](https://github.com/zestymec)
+### 📫 Connect With Me
+- 🔭 I’m currently working on **Production-ready Mobile Apps**
+- 🌱 I’m currently learning **Advanced Backend Architecture**
+- 💬 Ask me about **React Native, Android Bundling, or UI Optimization**
+- ⚡ Fun fact: I have an **80+ day streak** in English learning and a passion for Pixel devices!
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
