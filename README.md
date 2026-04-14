@@ -15,16 +15,16 @@
 </p>
 
 <p align="center">
-  <strong>Mobile Application Developer</strong> @Alkhidmat Foundation Pakistan <br>
-  <em>Specializing in React Native | Performance Optimization | Cross-Platform Solutions</em>
+  <strong>Mobile & Web Developer</strong> @Alkhidmat Foundation Pakistan <br>
+  <em>Specializing in React Native | Next.js | UI/UX Optimization</em>
 </p>
 
 ---
 
 ### 🧑‍💻 Professional Synopsis
-I am a driven **Software Developer** focused on creating high-performance, user-centric mobile applications. Currently leading mobile development at **Alkhidmat Foundation**, I specialize in **React Native CLI**, native bridging, and production-grade Android bundling (**APK/AAB**). 
+I am a **Software Developer** focused on high-performance mobile and web applications. Currently, I am contributing to the **Alkhidmat Foundation** ecosystem, working on both their official web platforms and upcoming mobile application. I specialize in **React Native CLI**, **Next.js**, and modern CSS frameworks like **Tailwind & Bootstrap**.
 
-With a strong foundation in modern JavaScript and a **Duolingo English score of 130/160**, I am actively bridging the gap between mobile engineering and **Full Stack Web Development**.
+I am committed to writing clean, scalable code and regularly participate in senior-led code reviews to align with industry standards.
 
 ---
 
@@ -51,36 +51,35 @@ With a strong foundation in modern JavaScript and a **Duolingo English score of 
 
 ---
 
-### 🚀 Key Projects (2026)
+### 🚀 Key Contributions (Alkhidmat Foundation)
 
-| 📱 Project | 🛠️ Stack | 🏆 Core Impact |
+| 📱 Project/Task | 🛠️ Stack | 🏆 Core Impact |
 | :--- | :--- | :--- |
-| **Alkhidmat Foundation App** | React Native, WebView | Engineered native-to-web communication layer & optimized APK bundling. |
-| **AutoDeals.pk Clone** | React, Bootstrap | Delivered a 100% pixel-perfect, responsive UI with complex grid layouts. |
-| **Currency Matrix** | React, Axios, Hooks | Built a real-time financial tool with modular architecture & API caching. |
-| **Developer Portfolio** | Next.js 14, Tailwind | High-speed personal brand site with 95+ Lighthouse performance score. |
+| **Official Mobile App** | React Native | Implementing core modules, WebView integrations, and UI components under senior review. |
+| **Islamic Giving Modules** | Next.js, React | Developed dynamic Zakat & Sadaqah donation components with on-page logic & responsiveness. |
+| **Resource Optimization** | Backend/Next.js | Integrated multi-language Duas (Urdu/English) and audited the "Area of Work" sub-pages. |
+| **Fundraiser Portal Guide** | Documentation | Created a comprehensive step-by-step guide (PPT) to standardize fundraiser portal operations. |
 
 ---
 
-### 📈 GitHub Insights
-
+### 📈 GitHub Insights (Verified)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zestymec&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=zestymec&layout=compact&theme=radical" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zestymec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zestymec&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-- 🔭 I’m currently working on **Production-ready Mobile Apps**
-- 🌱 I’m currently learning **Advanced Backend Architecture**
-- 💬 Ask me about **React Native, Android Bundling, or UI Optimization**
-- ⚡ Fun fact: I have an **80+ day streak** in English learning and a passion for Pixel devices!
+- 🔭 I’m currently building **Production-ready Mobile Apps** for Alkhidmat.
+- 🌱 Learning **Advanced React Native Navigation** and **JavaScript Engine Internals**.
+- 💬 Ask me about **Mobile UI responsiveness, Zakat system logic, or Android Bundling**.
+- ⚡ Fun fact: I maintain a strict learning streak and I'm a big fan of **Pixel devices**!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
