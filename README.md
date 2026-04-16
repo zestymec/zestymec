@@ -81,5 +81,5 @@ I am committed to writing clean, scalable code and regularly participate in seni
 - ⚡ Fun fact: I maintain a strict learning streak and I'm a big fan of **Pixel devices**!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="600" style="max-width: 100%; height: auto; display: block;" />
 </p>
