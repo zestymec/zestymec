@@ -36,13 +36,13 @@ I am a **Software Engineer** dedicated to building robust, high-performance mobi
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,bootstrap,react-native" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,xcode" />
     </td>
   </tr>
 </table>
