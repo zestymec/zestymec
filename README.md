@@ -22,7 +22,7 @@
 ---
 
 ### 🧑‍💻 Executive Summary
-I am a **Software Engineer** dedicated to building robust, high-performance mobile and web solutions. Currently, I am driving digital transformation at **Alkhidmat Foundation Pakistan**, where I focus on architecting seamless user experiences using **React Native CLI** and **Next.js**. I pride myself on writing clean, maintainable code and optimizing complex system workflows.
+I am a **Software Engineer** dedicated to building robust, high-performance mobile and web solutions. Currently, I am driving digital transformation at **Alkhidmat Foundation Pakistan**, where I focus on architecting seamless user experiences using **React Native CLI** and **React.js**. I pride myself on writing clean, maintainable code and optimizing complex system workflows.
 
 ---
 
