@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <strong>Software Developer @ Alkhidmat Foundation Pakistan</strong> <br>
-  <em>Specializing in High-Performance Mobile Apps & UI/UX Optimization</em>
+  <strong>Software Engineer @ Alkhidmat Foundation Pakistan</strong> <br>
+  <em>Architecting Impactful Digital Solutions for Humanitarian Excellence</em>
 </p>
 
 ---
 
-### 🧑‍💻 Executive Summary
-I am a **Software Engineer** dedicated to building robust, high-performance mobile and web solutions. Currently, I am driving digital transformation at **Alkhidmat Foundation Pakistan**, where I focus on architecting seamless user experiences using **React Native CLI** and **React.js**. I pride myself on writing clean, maintainable code and optimizing complex system workflows.
+### 🧑‍💻 Executive Profile
+A dedicated **Software Engineer** specializing in the development of robust, high-performance mobile and web ecosystems. Currently, I am spearheading technical initiatives at **Alkhidmat Foundation Pakistan**, where I focus on building scalable architectures using **React Native CLI** and **React.js**. I am passionate about code craftsmanship, performance optimization, and translating complex humanitarian requirements into seamless digital experiences.
 
 ---
 
@@ -30,33 +30,33 @@ I am a **Software Engineer** dedicated to building robust, high-performance mobi
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><strong>Mobile & Frontend</strong></td>
-    <td align="center" width="33%"><strong>Backend & Core</strong></td>
-    <td align="center" width="33%"><strong>Tooling & OS</strong></td>
+    <td align="center" width="33%"><strong>Mobile & Web Frontend</strong></td>
+    <td align="center" width="33%"><strong>Backend & Database</strong></td>
+    <td align="center" width="33%"><strong>DevOps & Tools</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,bootstrap,react-native" />
+      <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,bootstrap,reactnative" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,xcode" />
+      <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,apple" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Strategic Contributions (Alkhidmat Foundation)
+### 🚀 Key Contributions @ Alkhidmat Foundation
 
 | 📱 Domain | 🛠️ Technology | 🏆 Core Impact |
 | :--- | :--- | :--- |
-| **Mobile Ecosystem** | React Native | Architecting core functional modules and seamless WebView bridges for the flagship app. |
-| **Philanthropy Tech** | Next.js, React | Engineered dynamic Zakat & Sadaqah calculation engines with real-time responsive logic. |
-| **Data Optimization** | Performance Audit | Optimized multilingual content delivery and refined "Area of Work" architectural sub-pages. |
-| **Operational Standards** | Documentation | Authored comprehensive technical guides to standardize fundraiser portal operations. |
+| **Mobile App Architecture** | React Native | Developing core modules and high-performance WebView bridges for flagship humanitarian apps. |
+| **Philanthropy Logic** | Next.js / React | Engineered complex, real-time Zakat & Sadaqah calculation engines for global donors. |
+| **UX & Optimization** | Performance Audit | Optimized multilingual delivery and refined the "Areas of Work" architectural sub-pages. |
+| **Standards & Docs** | SDLC | Authored comprehensive technical documentation to standardize fundraiser portal operations. |
 
 ---
 
@@ -71,11 +71,11 @@ I am a **Software Engineer** dedicated to building robust, high-performance mobi
 
 ---
 
-### 📫 Let's Collaborate
-- 🔭 **Current Focus:** Scaling production-grade mobile applications with **React Native CLI**.
-- 🌱 **Learning Path:** Diving deep into **JavaScript Engine Internals (V8/Hermes)** and Advanced Navigation.
-- 💬 **Ask Me About:** Mobile performance, complex Zakat logic, or Pixel device optimizations.
-- ⚡ **Fun Fact:** I treat my code like photography—focusing on every pixel for the perfect shot.
+### 📫 Connect & Collaborate
+- 🔭 **Current Focus:** Scaling production-grade mobile applications with **Hermes** engine optimization.
+- 🌱 **Learning Path:** Mastering **Native Modules (Bridge/JSI)** and Advanced Navigation patterns.
+- 💬 **Ask Me About:** Mobile performance, complex donation logic, or UI/UX best practices.
+- ⚡ **Fun Fact:** I approach coding with a photographer's eye—balancing focus, composition, and precision.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="600" />
