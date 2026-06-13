@@ -75,7 +75,7 @@ A dedicated **Software Engineer** specializing in the development of robust, hig
 - 🔭 **Current Focus:** Scaling production-grade mobile applications with **Hermes** engine optimization.
 - 🌱 **Learning Path:** Mastering **Native Modules (Bridge/JSI)** and Advanced Navigation patterns.
 - 💬 **Ask Me About:** Mobile performance, complex donation logic, or UI/UX best practices.
-- ⚡ **Fun Fact:** I approach coding with a photographer's eye—balancing focus, composition, and precision.
+- ⚡ **Fun Fact:** I approach coding with a photographer's eye balancing focus, composition, and precision.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="600" />
