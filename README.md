@@ -22,7 +22,7 @@
 ---
 
 ### 🧑‍💻 Who Am I?
-I’m **Muhammad Muneeb (ZestyMec)** - a passionate software engineer who believes in building digital experiences that actually matter. By day, I architect robust mobile and web solutions; by night, I’m exploring the depths of new technologies to stay ahead of the curve. Whether it's optimizing a React Native bridge or engineering a backend service, I thrive on solving technical puzzles with clean, maintainable code.
+I’m **Muhammad Umer Aziz (ZestyMec)** - a passionate software engineer who believes in building digital experiences that actually matter. By day, I architect robust mobile and web solutions; by night, I’m exploring the depths of new technologies to stay ahead of the curve. Whether it's optimizing a React Native bridge or engineering a backend service, I thrive on solving technical puzzles with clean, maintainable code.
 
 ---
 
