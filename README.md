@@ -50,6 +50,7 @@ I’m **Muhammad Umer Aziz ** - a passionate software engineer who believes in b
 ---
 
 ### 🚀 What I'm Working On
+*   Pyhton and Machine learning
 *   **Professional Work:** Building impactful welfare-focused applications at **Alkhidmat Foundation**, leveraging React Native for mobile and Next.js for web.
 *   **Current Tech Stack:** Deeply embedded in the **MERN & Next.js** ecosystem to build full-stack, responsive web applications.
 *   **New Horizons:** Currently expanding my expertise into **Python** to bridge the gap between application development and backend automation/data-driven intelligence.
