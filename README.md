@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Muhammad+Umer+Aziz+🚀;Full-Stack+Developer;React+Native+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Muhammad+Umer+Aziz+🚀;Full-Stack+Developer;AI+%26+ML+Explorer;Building+Scalable+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 <p align="center">
   <strong>Software Developer @ Alkhidmat Foundation Pakistan</strong> <br>
-  <em>Turning complex humanitarian challenges into elegant, high-performance digital code.</em>
+  <em>Turning technical complexity into high-performance, impactful digital code.</em>
 </p>
 
 ---
 
 ### 🧑‍💻 Who Am I?
-I’m **Muhammad Umer Aziz ** - a passionate software engineer who believes in building digital experiences that actually matter. By day, I architect robust mobile and web solutions; by night, I’m exploring the depths of new technologies to stay ahead of the curve. Whether it's optimizing a React Native bridge or engineering a backend service, I thrive on solving technical puzzles with clean, maintainable code.
+I’m **Muhammad Umer Aziz** — a passionate software developer and student who believes in building applications that solve real-world problems. By day, I build robust web and mobile solutions; by choice, I'm actively expanding my core engineering foundations into **Machine Learning and AI**. Whether it's optimizing a React Native architecture, spinning up a Next.js platform, or diving into gradient descent mechanics, I thrive on continuous learning and clean code.
 
 ---
 
@@ -31,8 +31,8 @@ I’m **Muhammad Umer Aziz ** - a passionate software engineer who believes in b
 <table align="center">
   <tr>
     <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend/Fullstack</strong></td>
-    <td align="center" width="25%"><strong>Learning & Tools</strong></td>
+    <td align="center" width="25%"><strong>Backend / Fullstack</strong></td>
+    <td align="center" width="25%"><strong>AI, ML & Tools</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -50,10 +50,9 @@ I’m **Muhammad Umer Aziz ** - a passionate software engineer who believes in b
 ---
 
 ### 🚀 What I'm Working On
-*   Pyhton and Machine learning
-*   **Professional Work:** Building impactful welfare-focused applications at **Alkhidmat Foundation**, leveraging React Native for mobile and Next.js for web.
-*   **Current Tech Stack:** Deeply embedded in the **MERN & Next.js** ecosystem to build full-stack, responsive web applications.
-*   **New Horizons:** Currently expanding my expertise into **Python** to bridge the gap between application development and backend automation/data-driven intelligence.
+* 🤖 **AI & ML Foundations:** Deep-diving into Python, machine learning workflows, and core mathematical optimization concepts (like gradient descent and neural network architectures).
+* 💼 **Professional Impact:** Engineering high-performance frontend components and welfare applications at **Alkhidmat Foundation** using Next.js and React Native.
+* ⚡ **Full-Stack Scaling:** Crafting end-to-end web experiences utilizing the MERN stack, Tailwind CSS, and secure Node.js/Express backends.
 
 ---
 
@@ -66,14 +65,13 @@ I’m **Muhammad Umer Aziz ** - a passionate software engineer who believes in b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zestymec&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ### ⚡ Let's Connect
-- 🔭 **Focus:** Optimizing app performance and building scalable full-stack architectures.
-- 🌱 **Learning:** Currently diving deep into Python core concepts.
-- 💬 **Talk to me about:** React Native architecture, Next.js, or how to manage a dev career while being a student!
-- ⚡ **Fun Fact:** When I'm not debugging, you'll likely find me on the digital battlefield playing PUBG or Clash of Clans.
+- 🔭 **Focus:** Bridging full-stack development with machine learning intelligence.
+- 🌱 **Learning:** Mastering Python, ML algorithms, and advanced backend optimization.
+- 💬 **Talk to me about:** Full-stack architectures, AI integration strategies, or balancing software engineering with university life.
+- ⚡ **Fun Fact:** When I'm away from the terminal, you'll likely find me strategizing matches in PUBG Mobile or Clash of Clans.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="600" />
