@@ -28,7 +28,7 @@
   <p>
     <img src="https://img.shields.io/badge/📍-Lahore,%20Pakistan-38BDF8?style=flat-square" alt="Location" />
     <img src="https://img.shields.io/badge/💼-Software%20Developer%20@%20Alkhidmat%20Foundation-10B981?style=flat-square" alt="Role" />
-    <img src="https://img.shields.io/badge/🎯-Open%20to%20Internships%20%26%20Collaboration-F59E0B?style=flat-square" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/🎯-Open%20to%20%20Collaboration-F59E0B?style=flat-square" alt="Open to Work" />
   </p>
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=zestymec&style=for-the-badge&color=38BDF8&label=Profile+Views" alt="Profile Views" />
@@ -79,7 +79,7 @@ Ecosystem Breakdown
 <table>
   <tr>
     <td width="70%">
-      <h4>🟢 Web Development Intern — Alkhidmat Foundation Pakistan</h4>
+      <h4>🟢 Software Developer — Alkhidmat Foundation Pakistan</h4>
       <sub>Media & Marketing Department, Lahore · Jan 2026 – Present</sub>
       <ul>
         <li>Rebuilding legacy fundraising platform into <strong>Next.js + Tailwind CSS</strong> production app</li>
