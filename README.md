@@ -116,24 +116,7 @@ Ecosystem Breakdown
 🚀 Featured Projects
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Password Generator</h3>
-      <div align="center">
-        <a href="https://github.com/zestymec/Password-generator-react-native-app" target="_blank">
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Formik-FF4154?style=flat-square&logo=formik&logoColor=white" />
-        </a>
-      </div>
-      <p>
-        Cross-platform mobile app generating secure passwords (6–100 chars) with real-time validation, glassmorphism UI, and full test coverage. Verified production-grade structure with native Android/iOS scaffolding.
-      </p>
-      <div align="center">
-        <a href="https://github.com/zestymec/Password-generator-react-native-app">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
-        </a>
-      </div>
-    </td>
+    
     <td width="50%">
       <h3 align="center">🤝 AKFP Fundraiser Platform</h3>
       <div align="center">
