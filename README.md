@@ -116,7 +116,6 @@ Ecosystem Breakdown
 🚀 Featured Projects
 <table>
   <tr>
-    
     <td width="50%">
       <h3 align="center">🤝 AKFP Fundraiser Platform</h3>
       <div align="center">
