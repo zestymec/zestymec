@@ -1,85 +1,97 @@
-<div align="center">
+<p align="center">
+  <a href="https://zestymec.netlify.app/">
+    <img src="./assets/banner.svg" width="100%" alt="Muhammad Umer Aziz - Full-Stack Developer in Lahore, Pakistan working with Next.js, React Native and Node.js" />
+  </a>
+</p>
 
-# Muhammad Umer Aziz
-### Full-Stack Developer · AI/ML Explorer
+<p align="center">
+  <a href="https://zestymec.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0B1028?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Muhammad Umer Aziz portfolio website" /></a>
+  <a href="https://linkedin.com/in/zestymec"><img src="https://img.shields.io/badge/LinkedIn-0B1028?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="Muhammad Umer Aziz on LinkedIn" /></a>
+  <a href="mailto:m.umer394aziz@gmail.com"><img src="https://img.shields.io/badge/Email-0B1028?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Muhammad Umer Aziz" /></a>
+  <a href="https://kaggle.com/zestymec"><img src="https://img.shields.io/badge/Kaggle-0B1028?style=for-the-badge&logo=kaggle&logoColor=A78BFA" alt="Muhammad Umer Aziz on Kaggle" /></a>
+  <a href="https://instagram.com/zestymec"><img src="https://img.shields.io/badge/Instagram-0B1028?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Muhammad Umer Aziz on Instagram" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+%26+Mobile+Products;Next.js+%7C+React+Native+%7C+Node.js;Open+to+Global+Collaboration)](https://git.io/typing-svg)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zestymec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zestymec.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zestymec)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.umer394aziz@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zestymec)
+## Muhammad Umer Aziz - Full-Stack Developer in Lahore, Pakistan
 
-![Profile Views](https://komarev.com/ghpvc/?username=zestymec&style=for-the-badge&color=38BDF8&label=Profile+Views)
+I'm **Muhammad Umer Aziz**, a full-stack developer from Lahore, Pakistan. These days I work as a software developer at **Alkhidmat Foundation Pakistan**, building the web and mobile products behind the foundation's welfare work. Most of my time goes into **Next.js**, **React Native** and **Node.js**, and I like owning a feature end to end, from the database to the last pixel on the screen.
 
-</div>
+Outside work I'm digging into **machine learning, MLOps and system design**, mostly by building small things, breaking them, and figuring out why.
 
----
+I grew up speaking Urdu and Punjabi, I work in English, and I'm picking up Japanese one kanji at a time.
 
-## 👨‍💻 About Me
-- 📍 Lahore, Pakistan
-- 💼 Software Developer @ Alkhidmat Foundation Pakistan
-- 🔭 Currently building welfare-tech products with **Next.js + React Native**
-- 🌱 Learning **Machine Learning, MLOps, System Design**
-- 🎯 Goal: ship high-impact products and collaborate globally
+**Skills:** Next.js developer, React Native developer, Node.js developer, TypeScript, MongoDB, Python, Tailwind CSS. **Based in:** Lahore, Punjab, Pakistan. **Open to:** freelance, remote and international collaboration.
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,git,github,linux,vscode,figma&perline=7" alt="Tech Stack" />
-</div>
+If you're building something that actually matters to people and could use another developer, I'd love to hear about it. Remote and international collaboration welcome.
 
-## 🚀 Featured Repositories
-<div align="center">
+<br/>
 
-<a href="https://github.com/zestymec/portifolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zestymec&repo=portifolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/zestymec/bazaura.pk-next-js-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zestymec&repo=bazaura.pk-next-js-web&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/zestymec/python-bazaura-app-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zestymec&repo=python-bazaura-app-backend&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/zestymec/to-do-list-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zestymec&repo=to-do-list-app&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/zestymec/weatherapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zestymec&repo=weatherapp&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/zestymec/Coffee_machine_python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zestymec&repo=Coffee_machine_python&theme=tokyonight&hide_border=true" />
-</a>
+## What I work with
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,git,github,linux,vscode,figma&perline=7&theme=dark" alt="Tech stack: JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, Python, Git, GitHub, Linux, VS Code, Figma" />
+</p>
 
-## 📊 GitHub Stats
-<div align="center">
+| | |
+|---|---|
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| **Mobile** | React Native |
+| **Backend** | Node.js, Express, Python |
+| **Database** | MongoDB |
+| **Everyday tools** | Git, GitHub, Linux, VS Code, Figma |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zestymec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestymec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=zestymec&theme=tokyonight&hide_border=true" />
+## Some things I've built
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zestymec&theme=tokyo-night&hide_border=true" />
+| Project | What it is | Stack |
+|---|---|---|
+| [**Bazaura.pk Web**](https://github.com/zestymec/bazaura.pk-next-js-web) | The web front for Bazaura.pk | Next.js |
+| [**Bazaura App Backend**](https://github.com/zestymec/python-bazaura-app-backend) | Backend powering the Bazaura app | Python |
+| [**Portfolio**](https://github.com/zestymec/portifolio) | My personal site, live at [zestymec.netlify.app](https://zestymec.netlify.app/) | Web |
+| [**Weather App**](https://github.com/zestymec/weatherapp) | Look up the current weather for any city | JavaScript |
+| [**To-Do List App**](https://github.com/zestymec/to-do-list-app) | A simple, no-fuss task manager | JavaScript |
+| [**Coffee Machine**](https://github.com/zestymec/Coffee_machine_python) | A coffee machine simulator, one of my early Python projects | Python |
 
-</div>
+<br/>
 
-## 🌐 Languages
-<div align="center">
+## My GitHub stats
 
-![Urdu](https://img.shields.io/badge/Urdu-Native-38BDF8?style=for-the-badge)
-![Punjabi](https://img.shields.io/badge/Punjabi-Native-0EA5E9?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-10B981?style=for-the-badge)
-![Japanese](https://img.shields.io/badge/Japanese-Learning-F59E0B?style=for-the-badge)
+<p align="center">
+  <img src="./assets/stats.svg" width="100%" alt="Muhammad Umer Aziz GitHub stats: 70 public repositories, stars, followers and top languages JavaScript, TypeScript, Python" />
+</p>
 
-</div>
+<br/>
 
-## 🤝 Connect With Me
-<div align="center">
+## My year in 3D
 
-[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zestymec)
-[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.umer394aziz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zestymec.netlify.app/)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Muhammad Umer Aziz 3D GitHub contribution graph with stars, forks and language breakdown" />
+  </picture>
+</p>
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake-dark.svg" width="100%" alt="Snake eating zestymec's GitHub contribution grid" />
+  </picture>
+</p>
+
+<br/>
+
+## Say hi
+
+The quickest way to reach me is [email](mailto:m.umer394aziz@gmail.com) or a message on [LinkedIn](https://linkedin.com/in/zestymec). More of my work is on my [portfolio](https://zestymec.netlify.app/), and my notebooks and ML experiments live on [Kaggle](https://kaggle.com/zestymec).
+
+<p align="center">
+  <sub>Thanks for stopping by. Have a good one ☕</sub><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=zestymec&style=for-the-badge&color=0B1028&label=VISITORS" alt="Profile visitors" />
+</p>
+
+<!-- Keywords: Muhammad Umer Aziz, M Umer Aziz, zestymec, full stack developer Lahore, Next.js developer Pakistan, React Native developer Lahore, Node.js developer, software developer Alkhidmat Foundation, remote developer Pakistan -->
