@@ -91,7 +91,7 @@ The quickest way to reach me is [email](mailto:m.umer394aziz@gmail.com) or a mes
 
 <p align="center">
   <sub>Thanks for stopping by. Have a good one ☕</sub><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=zestymec&style=for-the-badge&color=0B1028&label=VISITORS" alt="Profile visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=zestymec%2Fzestymec&label=VISITORS&countColor=%230B1028&labelColor=%230B1028&style=for-the-badge" alt="Profile visitors" />
 </p>
 
 <!-- Keywords: Muhammad Umer Aziz, M Umer Aziz, zestymec, full stack developer Lahore, Next.js developer Pakistan, React Native developer Lahore, Node.js developer, software developer Alkhidmat Foundation, remote developer Pakistan -->
