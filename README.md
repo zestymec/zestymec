@@ -16,7 +16,7 @@
 
 ## Muhammad Umer Aziz - Full-Stack Developer in Lahore, Pakistan
 
-I'm **Muhammad Umer Aziz**, a full-stack developer from Lahore, Pakistan. These days I work as a software developer at **Alkhidmat Foundation Pakistan**, building the web and mobile products behind the foundation's welfare work. Most of my time goes into **Next.js**, **React Native** and **Node.js**, and I like owning a feature end to end, from the database to the last pixel on the screen.
+I'm **Muhammad Umer Aziz**, a full-stack developer from Lahore, Pakistan. These days I work as a software developer at **Alkhidmat Foundation Pakistan**, building the web and mobile products behind the foundation's welfare work. Most of my time goes into **Next.js**, **React Native** , and I like owning a feature end to end, from the database to the last pixel on the screen.
 
 Outside work I'm digging into **machine learning, MLOps and system design**, mostly by building small things, breaking them, and figuring out why.
 
