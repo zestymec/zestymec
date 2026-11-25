@@ -50,10 +50,8 @@ If you're building something that actually matters to people and could use anoth
 |---|---|---|
 | [**Bazaura.pk Web**](https://github.com/zestymec/bazaura.pk-next-js-web) | The web front for Bazaura.pk | Next.js |
 | [**Bazaura App Backend**](https://github.com/zestymec/python-bazaura-app-backend) | Backend powering the Bazaura app | Python |
-| [**Portfolio**](https://github.com/zestymec/portifolio) | My personal site, live at [zestymec.netlify.app](https://zestymec.netlify.app/) | Web |
-| [**Weather App**](https://github.com/zestymec/weatherapp) | Look up the current weather for any city | JavaScript |
-| [**To-Do List App**](https://github.com/zestymec/to-do-list-app) | A simple, no-fuss task manager | JavaScript |
-| [**Coffee Machine**](https://github.com/zestymec/Coffee_machine_python) | A coffee machine simulator, one of my early Python projects | Python |
+| MANY | MORE | IN THE REPOS |
+
 
 <br/>
 
